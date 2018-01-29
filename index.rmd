@@ -1,0 +1,28 @@
+---
+date: "March 23, 2016"
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+---
+
+Weida Xu
+============
+
+-----------------------------------------------
+New York, NY                          
+United Staets                           
+email@example.com
+1800 my-phone-nr
+-----------------------------------------------
+
+Education
+---------
+
+2017-2018 (expected)
+:   **MA, Quantitative Methods in the Social Sciencs - Data Science Focus**; Columbia University (New York)
+
+2014-2017
+:   **BSc, Econometrics and Mathematical Econometrics**; London School of Economics and Political Science
+    (United Kingdom)
+
